@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart Appointment Booking</string>
+    <string name="welcome_message">Welcome to the Appointment Booking App</string>
+
+    <string-array name="appointment_types">
+        <item>Select Appointment Type</item>
+        <item>Doctor Consultation</item>
+        <item>Dentist Appointment</item>
+        <item>Eye Specialist</item>
+        <item>Skin Specialist</item>
+        <item>General Checkup</item>
+    </string-array>
+</resources>
